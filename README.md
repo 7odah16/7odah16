@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @7odah16
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning JS
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on anything
 - 📫 How to reach me mahmoudmine13@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: iam 15y old
